@@ -1,1 +1,1 @@
-# IMPR-Eye-Detection-Project
+# Real-time Face and Eye Detection using OpenCV
